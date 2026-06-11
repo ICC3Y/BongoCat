@@ -1,0 +1,60 @@
+body{
+    background-image: url("/media/khashayar-kouchpeydeh-1gT8RLvFKvE-unsplash.jpg");
+    background-position: center center;
+}
+
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+h1{
+    text-align: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+    gap: 3%;
+
+
+}
+
+
+
+#playpauseBtn{
+    background-color: lightsteelblue;
+    color: slategray;
+    border-color: gray;
+    border-radius: 50%;
+    border-width: 1px;
+    aspect-ratio: 1/1;
+    width : 5%;
+    height : auto;
+    align-content: center;
+    transition: all 0.1s ease-in-out;
+
+}
+
+#resetBtn{
+    background-color: lightsteelblue;
+    color: slategray;
+    border-color: gray;
+    border-radius: 50%;
+    border-width: 1px;
+    aspect-ratio: 1/1;
+    width : 5%;
+    height : auto;
+    align-content: center;
+    transition: all 0.1s ease-in-out;
+
+}
+#playpauseBtn:hover, #resetBtn:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);;
+}

@@ -1,8 +1,18 @@
 const audio = document.getElementById('BongoAudio');
-const play = document.getElementById('playBtn');
-const pause = document.getElementById('pauseBtn');
+const playpause = document.getElementById('playpauseBtn');
 const reset = document.getElementById('resetBtn');
 
-play.addEventListener('click', () => {audio.play()});
-pause.addEventListener('click', () => {audio.pause()});
+playpause.addEventListener('click', () => {
+    if (audio.paused) {
+        audio.play();
+        playpause.textContent = 'Pause';
+    }
+    else {
+        audio.pause();
+        playpause.textContent = 'Play';
+
+    }
+});
 reset.addEventListener('click', () => {audio.currentTime = 0;});
+
+

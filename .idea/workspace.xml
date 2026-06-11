@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e79d1f9-3f42-4d7a-bc73-58de336ed3bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/media/khashayar-kouchpeydeh-1gT8RLvFKvE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.test.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -46,7 +51,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "C:/Users/Neil/Desktop/nuclear",
+    "last_opened_file_path": "C:/Users/Neil/Desktop/nuclear/media",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,9 +62,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Neil\Desktop\nuclear\media" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Neil\Desktop\nuclear" />
+      <recent name="C:\Users\Neil\Desktop\nuclear\media" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -78,7 +86,7 @@
       <updated>1780984585295</updated>
       <workItem from="1780984586364" duration="6155000" />
       <workItem from="1780993926436" duration="830000" />
-      <workItem from="1781159583884" duration="5813000" />
+      <workItem from="1781159583884" duration="11085000" />
     </task>
     <servers />
   </component>
